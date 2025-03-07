@@ -9,7 +9,7 @@ Topics covered in the course:
 - [x] [Data Analysis](https://github.com/malucor/Analise_Dados_EBAC/tree/main/An%C3%A1lise_de_Dados);
 - [x] [Data Analysis for Business Intelligence](https://github.com/malucor/Analise_Dados_EBAC/tree/main/An%C3%A1lise_de_Dados_para_Intelig%C3%AAncia_de_Neg%C3%B3cios);
 - [x] [SQL](https://github.com/malucor/Analise_Dados_EBAC/tree/main/SQL);
-- [ ] [Cloud Computing and Big Data](https://github.com/malucor/Analise_Dados_EBAC/tree/main/Computa%C3%A7%C3%A3o_em_Nuvem_e_Big_Data).
+- [x] [Cloud Computing and Big Data](https://github.com/malucor/Analise_Dados_EBAC/tree/main/Computa%C3%A7%C3%A3o_em_Nuvem_e_Big_Data).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Tópicos abordados no curso:
 - [x] [Análise de Dados](https://github.com/malucor/Analise_Dados_EBAC/tree/main/An%C3%A1lise_de_Dados);
 - [x] [Análise de Dados para Inteligência de Negócios](https://github.com/malucor/Analise_Dados_EBAC/tree/main/An%C3%A1lise_de_Dados_para_Intelig%C3%AAncia_de_Neg%C3%B3cios);
 - [x] [SQL](https://github.com/malucor/Analise_Dados_EBAC/tree/main/SQL);
-- [ ] [Computação em Nuvem e Big Data](https://github.com/malucor/Analise_Dados_EBAC/tree/main/Computa%C3%A7%C3%A3o_em_Nuvem_e_Big_Data).
+- [x] [Computação em Nuvem e Big Data](https://github.com/malucor/Analise_Dados_EBAC/tree/main/Computa%C3%A7%C3%A3o_em_Nuvem_e_Big_Data).
